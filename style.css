@@ -1,0 +1,14 @@
+th {
+     font-weight: 800;
+    color:black;
+    background-color:#000000;
+    color: #0404B4;
+        
+}
+table{
+    font-family:havetica,sans-serif;
+    border-collapse: collapse;
+    border-width: 2px;
+    border-style: solid;
+    border-color: #0404B4;
+}
